@@ -89,6 +89,7 @@ heap.shift();//this will popout the outer element.
         heap.shift();
     }
     heap.push(intervals[i][1])
+    
 
 }
 return room;
